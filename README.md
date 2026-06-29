@@ -2,7 +2,7 @@
 
 💻 Estudando Java no Devs2Blu
 
-🐍 Conhecimento básico em Python cursos online Prof Gustavo Guanabara
+🐍 Conhecimento básico em Python pelo curso online Prof Gustavo Guanabara
  
 🗄️ Noções de SQL e banco de dados
 
