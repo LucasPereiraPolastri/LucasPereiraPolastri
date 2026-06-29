@@ -1,11 +1,9 @@
 # Olá! 👋
 
-💻 Estudando Java
+💻 Estudando Java no Devs2Blu
 
-🐍 Conhecimento básico em Python
-
+🐍 Conhecimento básico em Python cursos online Prof Gustavo Guanabara
+ 
 🗄️ Noções de SQL e banco de dados
-
-🇬🇧 Inglês básico
 
 🚀 Em constante aprendizado e desenvolvendo minhas habilidades em desenvolvimento de software.
