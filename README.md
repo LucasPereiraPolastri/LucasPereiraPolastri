@@ -1,7 +1,7 @@
 # Olá! 👋
 
 📚 Formação em andamento: +Devs2Blu
-Curso em andamento (jun/2026 a dez/2026). Até agora estudei:
+Curso em andamento até agora estudei:
 
 - Java: fundamentos da linguagem e lógica de programação
 - Programação Orientada a Objetos (POO): classes, objetos, herança, encapsulamento e polimorfismo
