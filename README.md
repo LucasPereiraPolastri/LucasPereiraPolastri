@@ -4,7 +4,7 @@
 Curso em andamento até agora estudei:
 
 - Java: fundamentos da linguagem e lógica de programação
-- Programação Orientada a Objetos (POO): classes, objetos, herança, encapsulamento e polimorfismo
+- Programação Orientada a Objetos (POO): classes, objetos, herança, encapsulamento e polimorfismo, classes abstract e interface
 - Spring Boot: criação de aplicações back-end
 - APIs: desenvolvimento e consumo de APIs
 - SQL e bancos de dados: criação de tabelas e consultas (CRUD)
