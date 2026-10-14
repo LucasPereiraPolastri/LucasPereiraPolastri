@@ -11,4 +11,4 @@ Curso em andamento até agora estudei:
 - Git e GitHub: versionamento de código, commits, push e trabalho com repositórios
 - Inglês: em desenvolvimento, com foco no vocabulário técnico
 
-🚀 Continuo estudando e vou atualizando este perfil com novos projetos
+🚀 Continuo estudando e vou atualizando meu perfil com novos projetos
